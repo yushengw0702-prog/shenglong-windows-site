@@ -9,6 +9,8 @@ The website uses the following third-party images as service-scene illustrations
 - `dist/assets/case-detail.jpg`: Max Vakhtbovych / Pexels, https://www.pexels.com/photo/exterior-of-modern-house-with-glass-doors-and-panoramic-windows-7031607/ — Pexels License.
 - `dist/assets/case-storefront.jpg`: alleksana / Pexels, https://www.pexels.com/photo/modern-house-facade-10610731/ — Pexels License.
 - `dist/assets/history-brochure.jpg`: user-provided historic company brochure used with permission for this project.
+- `dist/assets/official-site-qr.png`: generated QR code linking to the public official website.
+- `dist/assets/shenglong-digital-card.png`: designed corporate digital card using the licensed hero image and verified official-site QR code.
 - `dist/og.jpg`: AI-generated social-sharing card created specifically for this website.
 
 These images are presented as contextual illustrations, not as completed projects of 南阳市盛隆门窗有限公司.
